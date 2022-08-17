@@ -13,6 +13,18 @@ Seiheki is a light-theme first colorscheme aiming for a classy and subtle look. 
 
 Elements are grouped into palettes. Each palette is crafted with a motif and named after it.
 
+### Cheatsheet
+
+```
+Mountain: #efefef #cccccc #474747 #1f1f1f
+Seiheki:  #3a6960 #488479 #7bb7ac #96c5bc
+Catawba:  #693a43 #91505c #a8616e #c5969f
+Forest:   #3a6949 #3a6960 #3a5b69
+Sea:      #96c5a5 #96c5bc #96b7c5
+Desert:   #693a5b #693a43 #69493a
+Coral:    #c596b7 #c5969f #c5a596
+```
+
 ### Mountain
 
 The base for both the light and dark variants, it offers the light and shadow that gives life to seiheki.
